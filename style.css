@@ -1,0 +1,32 @@
+body{
+
+    background-color: black;
+    color: red;
+
+}
+
+.container{
+    height: 300px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 10%;
+}
+
+.buttons{
+    text-align: center;
+    font-size: 100px !important;
+}
+
+.header{
+
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size:100px;
+    color: white !important;
+}
